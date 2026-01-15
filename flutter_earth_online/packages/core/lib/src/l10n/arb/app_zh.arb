@@ -1,0 +1,209 @@
+{
+  "@@locale": "zh",
+  "@@author": "Flutter Earth Online",
+
+  "appName": "Flutter Earth Online",
+  "@appName": {
+    "description": "应用名称"
+  },
+
+  "home": "首页",
+  "@home": {
+    "description": "首页标签"
+  },
+
+  "discover": "发现",
+  "@discover": {
+    "description": "发现标签"
+  },
+
+  "message": "消息",
+  "@message": {
+    "description": "消息标签"
+  },
+
+  "profile": "我的",
+  "@profile": {
+    "description": "我的标签"
+  },
+
+  "settings": "设置",
+  "@settings": {
+    "description": "设置页面标题"
+  },
+
+  "language": "语言",
+  "@language": {
+    "description": "语言设置"
+  },
+
+  "languageSystem": "跟随系统",
+  "@languageSystem": {
+    "description": "跟随系统语言"
+  },
+
+  "languageZh": "简体中文",
+  "@languageZh": {
+    "description": "简体中文"
+  },
+
+  "languageEn": "English",
+  "@languageEn": {
+    "description": "英语"
+  },
+
+  "languageJa": "日本語",
+  "@languageJa": {
+    "description": "日语"
+  },
+
+  "darkMode": "深色模式",
+  "@darkMode": {
+    "description": "深色模式设置"
+  },
+
+  "notification": "通知设置",
+  "@notification": {
+    "description": "通知设置"
+  },
+
+  "about": "关于我们",
+  "@about": {
+    "description": "关于我们"
+  },
+
+  "version": "版本",
+  "@version": {
+    "description": "版本信息"
+  },
+
+  "checkUpdate": "检查更新",
+  "@checkUpdate": {
+    "description": "检查更新"
+  },
+
+  "logout": "退出登录",
+  "@logout": {
+    "description": "退出登录按钮"
+  },
+
+  "cancel": "取消",
+  "@cancel": {
+    "description": "取消按钮"
+  },
+
+  "confirm": "确认",
+  "@confirm": {
+    "description": "确认按钮"
+  },
+
+  "save": "保存",
+  "@save": {
+    "description": "保存按钮"
+  },
+
+  "delete": "删除",
+  "@delete": {
+    "description": "删除按钮"
+  },
+
+  "edit": "编辑",
+  "@edit": {
+    "description": "编辑按钮"
+  },
+
+  "loading": "加载中...",
+  "@loading": {
+    "description": "加载提示"
+  },
+
+  "noData": "暂无数据",
+  "@noData": {
+    "description": "空数据提示"
+  },
+
+  "networkError": "网络错误，请稍后重试",
+  "@networkError": {
+    "description": "网络错误提示"
+  },
+
+  "retry": "重试",
+  "@retry": {
+    "description": "重试按钮"
+  },
+
+  "success": "操作成功",
+  "@success": {
+    "description": "成功提示"
+  },
+
+  "failed": "操作失败",
+  "@failed": {
+    "description": "失败提示"
+  },
+
+  "welcome": "欢迎回来",
+  "@welcome": {
+    "description": "欢迎语"
+  },
+
+  "searchHint": "搜索你感兴趣的内容",
+  "@searchHint": {
+    "description": "搜索框提示"
+  },
+
+  "viewMore": "查看更多",
+  "@viewMore": {
+    "description": "查看更多按钮"
+  },
+
+  "developerOptions": "开发者选项",
+  "@developerOptions": {
+    "description": "开发者选项标题"
+  },
+
+  "demo": "样例",
+  "@demo": {
+    "description": "Demo入口"
+  },
+
+  "demoDescription": "UI展示与网络请求测试",
+  "@demoDescription": {
+    "description": "Demo描述"
+  },
+
+  "envSwitch": "环境切换",
+  "@envSwitch": {
+    "description": "环境切换"
+  },
+
+  "envDevelopment": "开发环境",
+  "@envDevelopment": {
+    "description": "开发环境"
+  },
+
+  "envTest": "测试环境",
+  "@envTest": {
+    "description": "测试环境"
+  },
+
+  "envProduction": "预发布环境",
+  "@envProduction": {
+    "description": "预发布环境"
+  },
+
+  "envRelease": "线上环境",
+  "@envRelease": {
+    "description": "线上环境"
+  },
+
+  "restartHint": "已切换环境，建议重启应用以确保生效",
+  "@restartHint": {
+    "description": "环境切换后的重启提示"
+  },
+
+  "gotIt": "知道了",
+  "@gotIt": {
+    "description": "知道了按钮"
+  }
+}

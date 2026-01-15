@@ -1,0 +1,35 @@
+name: feature_demo
+description: Demo feature module - UI展示与网络请求测试
+version: 1.0.0
+publish_to: 'none'
+resolution: workspace
+
+environment:
+  sdk: ">=3.10.0-0 <4.0.0"
+  flutter: ">=3.38.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  dio: ^5.4.0
+  core:
+    path: ../../core
+  ui_kit:
+    path: ../../ui_kit
+  models:
+    path: ../../shared/models
+  services:
+    path: ../../shared/services
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.8
+  riverpod_generator: ^2.3.9
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
